@@ -29,7 +29,9 @@ Drill-Down & Tooltips: Interactive storytelling via hierarchical drill-downs and
 🛠️ **Tools Used**
 
 Power BI Desktop – Dashboard design & interactivity
+
 DAX – Custom measures for billing analysis
+
 Power Query – Data transformation & cleaning
 
 💡 **Purpose**
@@ -48,4 +50,5 @@ Decision Makers: Support strategic planning with data-backed insights for cost c
 👀 **Viewing the Power BI Report**
 
 The interactive Power BI report is available as a .pbix file in this repository.
+
 Note: Power BI files cannot be previewed directly on GitHub. To explore the report interactively, please download the .pbix file and open it in Power BI Desktop. For a quick view of the report, please refer to the PDF version.
